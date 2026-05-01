@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "resolution_week1_YOUR_USERNAME"
+name = "resolution_week1_spiyse"
 version = "0.0.1"
 dependencies = []
 
 [project.scripts]
-todo = "resolution_week1_YOUR_USERNAME.main:main"
+todo = "resolution_week1_spiyse.main:main"
