@@ -1,1 +1,1 @@
-# Week 1 project of hackclub resolution pytohn !
+# Week 1 project of hackclub resolution python !
